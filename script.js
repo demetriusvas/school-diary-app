@@ -1,9 +1,9 @@
 const app = document.getElementById('app');
 
 const childrenData = [
-    { id: 1, name: 'Maria Silva', avatar: 'https://via.placeholder.com/100' },
-    { id: 2, name: 'João Santos', avatar: 'https://via.placeholder.com/100' },
-    { id: 3, name: 'Ana Souza', avatar: 'https://via.placeholder.com/100' }
+    { id: 1, name: 'Maria Silva', avatar: "assets/img/child_01.jpg" },
+    { id: 2, name: 'João Santos', avatar: "assets/img/child_02.jpg" },
+    { id: 3, name: 'Ana Souza', avatar: "assets/img/child_03.jpg" }
 ];
 
 let currentScreen = 'login';
